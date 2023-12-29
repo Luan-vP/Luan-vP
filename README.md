@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Luan-vP
-- 👀 I'm a Senior AI Researcher at Autogen.AI
-- (See our page here!)[https://autogenai.com]
+- 👀 I'm a Senior AI Researcher at Autogen.AI - https://autogenai.com
 
-- My personal project, featherware, is working on human-powered flight.
-- (See out webpage here)[featherware.io]
+- My personal project, featherware, is working on human-powered flight - featherware.io
 
 <!---
 Luan-vP/Luan-vP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
